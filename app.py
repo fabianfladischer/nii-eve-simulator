@@ -37,7 +37,7 @@ logging.basicConfig(level=logging.WARNING)
 # ---------------------------------------------------------------------------
 
 _C = {
-    "navy":        "#0D2B55",
+    "navy":        "#0149AE",
     "blue":        "#1565C0",
     "light_blue":  "#90CAF9",
     "red":         "#C62828",
@@ -46,8 +46,8 @@ _C = {
     "light_green": "#C8E6C9",
     "amber":       "#E65100",
     "gray":        "#546E7A",
-    "grid":        "#ECEFF1",
-    "bg":          "#FFFFFF",
+    "grid":        "#767676",
+    "bg":          "#161616",
 }
 
 _TENOR_LABELS: dict[float, str] = {
