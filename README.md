@@ -34,7 +34,6 @@ This simulator models interest rate risk in the banking book (IRRBB) for a synth
 |---|---|
 | ![EVE page](docs/screenshot_eve.png) | ![Risk Summary](docs/screenshot_risk_summary.png) |
 
-_Screenshots will be added after first run. Place images in `docs/` to populate the table above._
 
 ---
 
